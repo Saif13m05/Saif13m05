@@ -31,10 +31,10 @@
 ---
 
 ## 📌 Current Focus
-- Building Full-Stack web applications
-- Integrating ML models into web apps
-- Developing REST APIs for ML models
-- Improving problem-solving skills
+- Working as a Full-Stack Developer (PHP & Node.js)
+- Building and training Machine Learning models
+- Developing REST APIs and backend systems
+- Improving problem-solving and software design skills
 
 ---
 
